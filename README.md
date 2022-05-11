@@ -5,7 +5,7 @@
             
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F2FCBC,100:EEFF8C&height=300&text=welcome&desc=Youngwoo's%20GitHub&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8182BF,100:6667AB&height=300&text=welcome&desc=Youngwoo's%20GitHub&animation=fadeIn&fontColor=ffffff)
 
 
   
